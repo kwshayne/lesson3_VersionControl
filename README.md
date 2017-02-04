@@ -4,15 +4,19 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 2, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Shayne Alongi)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we learned how to push files to our local and remote respostory
+while editing our website.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Local Respository is only accessable on the local machine it is on by the
+2. local user.)
+2. (Remote Repository is like LAN and is accessible to anyone who has accessable
+3. to that server.)
+3. (Version Control System allows multiple users to access and edit files while
+4. not interrupting or getting in anyone else's way of editing.)
